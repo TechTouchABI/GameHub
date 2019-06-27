@@ -20,9 +20,15 @@ The software provided here works with the currently available [Alexa Skills kit]
 
 GameHub is a Alexa PC Skills Framework application supercharged with power-efficient Intel® processors and Intel® Processor Graphics on a laptop.
 
-1. Windows 10 Compatable PC
-2. Intel Core i7 8th Gen
-3. 16 GB DDR4 RAM
-4. 512 SSD Storage
-5. Intel OpenVINO Toolkit
+1. An AWS account
+2. An Alexa Development Console account
+3. A PC with the following items installed:
+4. An Intel® Core™ i5 processor or higher CPU is recommended to meet limited response time
+requirements imposed by Alexa skills
+5. 4 gigabytes (GB) of RAM
+6. An AWS .NET software development kit (SDK) installed, with keys provisioned from your
+AWS account. [See Amazon developer page](https://aws.amazon.com/sdk-for-net/)
+7. [Alexa Skills kit](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/build)
+8. A web browser; review recommended list here.
+9. Internet access
      
