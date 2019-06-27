@@ -29,7 +29,7 @@ requirements imposed by Alexa skills
 6. An AWS .NET software development kit (SDK) installed, with keys provisioned from your
 AWS account. [See Amazon developer page](https://aws.amazon.com/sdk-for-net/)
 7. [Alexa Skills kit](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/build)
-8. A web browser; review recommended list here.
+8. A web browser; review recommended list [here](https://aws.amazon.com/premiumsupport/knowledge-center/browsers-management-console/).
 9. Internet access
      
 ## Environment Setup
