@@ -11,7 +11,7 @@ VS2017 | [![Build status](https://ci.appveyor.com/api/projects/status/swutsp1bjc
 
 The code in this repository is authored for software developers and machine-learning students and researchers interested in developing PC Skills for Games. 
 
-This project provides .NET code to demonstrate PC Skill via [Intel PCSkills Framework](https://github.com/IntelSoftware/PC-Skills-Framework)
+This project provides .NET code to demonstrate the implementation of PC Skills using [Intel PCSkills Framework](https://github.com/IntelSoftware/PC-Skills-Framework)
 
 The software provided here works with the currently available [Alexa Skills kit](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/build) GameHub is an experimental code and not an official Intel® product.
 
