@@ -1,0 +1,75 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "gamehub",
+      "intents": [
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "GamehubIntent",
+          "slots": [
+            {
+              "name": "app",
+              "type": "AMAZON.SoftwareApplication"
+            },
+            {
+              "name": "action",
+              "type": "AMAZON.SoftwareApplication"
+            },
+            {
+              "name": "appA",
+              "type": "AMAZON.SoftwareApplication"
+            },
+            {
+              "name": "appB",
+              "type": "AMAZON.SoftwareApplication"
+            }
+          ],
+          "samples": [
+            "run {action}",
+            "run {appA} and {appB} {action}",
+            "run {app} {action}",
+            "execute {action}",
+            "execute {appA} and {appB} {action}",
+            "execute {app} {action}",
+            "launch {action}",
+            "launch {appA} and {appB} {action}",
+            "launch {app} {action}",
+            "open {action}",
+            "open {appA} and {appB} {action}",
+            "open {app} {action}"
+          ]
+        }
+      ],
+
+      "types": [
+        {
+          "name": "LIST_OF_WIN_ACTIONS",
+          "values": [
+            { "name": { "value": "four by four" } },
+            { "name": { "value": "up and down" } },
+            { "name": { "value": "left and rights" } }
+          ]
+        }
+      ]
+    }
+  }
+}
