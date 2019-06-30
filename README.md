@@ -35,3 +35,6 @@ AWS account. [See Amazon developer page](https://aws.amazon.com/sdk-for-net/)
      
 ## Environment Setup
 * Setup [PC Skills Framework](https://software.intel.com/en-us/alexa-skills-for-pc) ([guide](https://software.intel.com/sites/default/files/managed/76/cb/pc-skills-aws-setup-guide.pdf))<br>
+
+## Getting Started
+Follow instructions in OpenGesture Skill developer [guide](https://github.com/TechTouchABI/GameHub/blob/master/GameHub/Gamehub.pdf)  
