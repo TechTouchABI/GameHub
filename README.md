@@ -20,6 +20,7 @@ The software provided here works with the currently available [Alexa Skills kit]
 
 GameHub is a Alexa PC Skills Framework application supercharged with power-efficient Intel® processors and Intel® Processor Graphics on a laptop.
 
+0. [GameHub App](https://drive.google.com/open?id=16A4Renp09Zfpv4aWXwKLLRsgL2yfy96C)
 1. An AWS account
 2. An Alexa Development Console account
 3. A PC with the following items installed:
